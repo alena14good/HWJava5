@@ -1,4 +1,4 @@
-package ru.netology.sqr;
+package ru.netology.sqr.HWJava5.services;
 
 public class SQRService {
     public int calSQRService(int min, int max) {
